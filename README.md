@@ -10,8 +10,10 @@ web_2 tendrá sus archivos web disponibles en el directorio www_2  en el host y 
 
 ## Instrucciones 
 
-realizar git clone a este repositorio desde la consola linux
-y realizar vagrant up
+realizar clone a este repositorio y realizar vagrant up 
+ejemplo en linux ejecutar
+git clone https://github.com/felipetellez/vagrant.git
+vagrant up
 
 ## Autor
 Juan felipe Téllez 
